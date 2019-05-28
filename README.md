@@ -3,7 +3,7 @@
 ## 目录
 
 * [默认配置](#默认配置)
-* [npm 引用](#npm 引用)
+* [npm 引用](#npm引用)
 * [AMD引入](#AMD引入)
 * [CMD引入](#CMD引入)
 
@@ -30,7 +30,7 @@
   }
 ```
 
-### npm 引用
+### npm引用
 
 ```shell
   yarn add watermark -S
