@@ -10,7 +10,7 @@ const isProduction = process.env.NODE_ENV === 'production'
 
 export default {
   entry: 'src/index.js',
-  format: 'umd',
+  format: 'umd',//script amd commonjs
   moduleName: 'WaterMask',
   plugins: [
     resolve({
